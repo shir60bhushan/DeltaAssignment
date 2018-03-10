@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4EA86E79-B4A3-44F4-AD0D-A100CC50CCE4}|Default">
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApp/WeatherApp.Android/MainActivity.cs">
+    <Files>
+      <File FileName="WeatherApp/WeatherApp.Android/Properties/AssemblyInfo.cs" Line="9" Column="48" />
+      <File FileName="WeatherApp/WeatherApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp/Weather.cs" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp/WeatherPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp/WeatherPage.xaml" Line="87" Column="17" />
+      <File FileName="WeatherApp/WeatherApp/DataService.cs" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp/Core.cs" Line="15" Column="6" />
+      <File FileName="WeatherApp/WeatherApp.Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp.iOS/Info.plist" />
+      <File FileName="WeatherApp/WeatherApp.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="WeatherApp/WeatherApp.iOS/Entitlements.plist" />
+      <File FileName="WeatherApp/WeatherApp.iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.Android PreferredExecutionTarget="Android.Nexus_4_API_22" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

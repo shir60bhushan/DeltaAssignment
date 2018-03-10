@@ -1,0 +1,11 @@
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.deps.json
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.dll
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/bin/Debug/netstandard2.0/WeatherApp.pdb
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.App.xaml.g.cs
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.MainPage.xaml.g.cs
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.WeatherPage.xaml.g.cs
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.AssemblyInfo.cs
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.dll
+/Users/bhushansrisath/Downloads/Weather/WeatherApp/WeatherApp/obj/Debug/netstandard2.0/WeatherApp.pdb
